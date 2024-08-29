@@ -4,7 +4,7 @@ import intro from '../assets/intro.png'
 
 const Hero = () => {
   return (
-    <div className="pb-4 lg:mb-35 pt-44 xl:px-20 px-8">
+    <div className="pb-4 lg:mb-35 pt-44 xl:px-20 xl:pt-0 xl:pb-16 px-8">
         <div className="flex flex-wrap overflow-x-hidden">
             {/* Text Section */}
             <div className="w-full lg:w-1/2">
