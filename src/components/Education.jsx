@@ -4,7 +4,7 @@ import { EDUCATION } from "../constants"
 const Education = () => {
   return (
     <div id="education" className="p-8 lg:px-20 lg:pt-4 lg:pb-28 text-theme-dark-blue">
-        <h2 className="mt-8 mb-20 text-center lg:text-4xl text-3xl font-light">
+        <h2 className="mt-9 mb-20 text-center lg:text-4xl text-3xl font-light">
             Education
         </h2>
         {EDUCATION.map((education, index) => (

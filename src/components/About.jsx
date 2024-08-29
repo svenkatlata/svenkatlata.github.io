@@ -5,7 +5,7 @@ import { ABOUT_TEXT} from "../constants"
 const About = () => {
   return (
     <div id="about" className="p-8 lg:px-20 lg:pt-4 lg:pb-16">
-        <h2 className="mt-8 mb-20 text-center lg:text-4xl text-3xl font-light">
+        <h2 className="mt-9 mb-20 text-center lg:text-4xl text-3xl font-light">
             <span className="text-theme-dark-blue">About</span>
             <span className="text-cyan-500"> Me</span>
         </h2>
