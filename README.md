@@ -1,1 +1,0 @@
-# svenkatlata.github.io
