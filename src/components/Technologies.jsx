@@ -22,8 +22,8 @@ import spacyLogo from '../assets/technologies/SpaCy.svg'
 
 const Technologies = () => {
   return (
-    <div id="technologies" className="p-8 xl:px-20 xl:pt-0 xl:pb-16">
-        <h2 className="my-20 text-center lg:text-4xl text-3xl font-light">
+    <div id="technologies" className="p-8 lg:px-20 lg:pt-4 lg:pb-28">
+        <h2 className="mt-20 mb-20 text-center lg:text-4xl text-3xl font-light">
             <span className="text-theme-dark-blue">Technologies</span>
         </h2>
         <div className="flex flex-wrap items-center justify-center gap-4 p-2">

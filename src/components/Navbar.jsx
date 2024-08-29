@@ -21,7 +21,7 @@ const Navbar = () => {
       <div className="xl:px-20 px-8 py-6 w-full flex justify-between items-center">
         {/* Logo Section */}
         <div className="flex items-center lg:w-1/4 lg:justify-start">
-            <img src={logo} alt="LOGO" className="w-10 h-10 mx-2" />
+            <Link key="hero" to="hero" spy={true} smooth={true} offset={-70} duration={500} className="cursor-pointer"><img src={logo} alt="LOGO" className="w-10 h-10 mx-2" /></Link>
         </div>
         {/* Primary Menu Section */}
         <div className="text-white hidden lg:flex lg:w-1/2 lg:justify-between">

@@ -21,8 +21,8 @@ const Contact = () => {
     };
       
   return (
-    <div id="contact" className="p-8 xl:px-20 text-theme-dark-blue">
-        <h2 className="my-20 text-center lg:text-4xl text-3xl font-light">
+    <div id="contact" className="p-8 lg:px-20 lg:pt-4 lg:pb-28 text-theme-dark-blue">
+        <h2 className="mt-8 mb-20 text-center lg:text-4xl text-3xl font-light">
             Let's Connect
         </h2>
         <div className="mb-8 flex flex-wrap lg:justify-center">
